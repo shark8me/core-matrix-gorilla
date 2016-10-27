@@ -1,6 +1,6 @@
 (defproject core-matrix-gorilla "0.1.0"
   :description "Gorilla REPL integration for core.matrix datasets"
-  :url "https://github.com/TODO"
+  :url "https://github.com/shark8me/core-matrix-gorilla"
   :license {:name "MIT"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [gorilla-renderable "1.0.0"]
