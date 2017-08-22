@@ -18,4 +18,9 @@ This code is licensed to you under the MIT licence. See LICENCE.txt for details.
 
 Copyright © 2016- Kiran Karkera 
 
+## TODO
+
+1. show column names
+2. vectorz 
+3. see pprint  
 
