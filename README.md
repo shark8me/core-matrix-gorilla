@@ -4,7 +4,9 @@
 
 ## Usage
 
-Add `[core-matrix-gorilla "0.1.0"]` to your project's dependencies. You will also need to have the lein-gorilla plugin in your project's plugin vector (see
+Add 
+[![Clojars Project](https://img.shields.io/clojars/v/core-matrix-gorilla.svg)](https://clojars.org/core-matrix-gorilla)
+ to your project's dependencies. You will also need to have the lein-gorilla plugin in your project's plugin vector (see
 Gorilla REPL's [getting started](http://gorilla-repl.org/start.html) page for help with installing Gorilla).
 You can then `(use 'core-matrix-gorilla.render)` in your Gorilla worksheets.
 
